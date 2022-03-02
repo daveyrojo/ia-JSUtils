@@ -1,0 +1,21 @@
+{
+  "name": "@rojo/js-utilities",
+  "version": "0.0.1",
+  "description": "Various Javascript Functions that are useful in everyday IA programming.",
+  "main": "index.js",
+  "files": [
+    "index.d.ts",
+    "index.js",
+    "lib/"
+  ],
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "author": "Daveyrojo",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.10.0",
+    "jest": "^27.5.1"
+  }
+}
