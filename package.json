@@ -1,6 +1,6 @@
 {
   "name": "@daveyrojo/js-utilities",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Various Javascript Functions that are useful in everyday IA programming.",
   "type": "module",
   "main": "index.js",
