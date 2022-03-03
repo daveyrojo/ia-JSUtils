@@ -1,4 +1,5 @@
-const smart = require('../lib/smart');
+import {smart} from '../lib/smart';
+import {jest} from '@jest/globals';
 
 describe('remove smart qoutes', () => {
     const smartQoutes = '\u2018\u2019\u201c\u201d';
