@@ -1,5 +1,5 @@
 {
-  "name": "@rojo/js-utilities",
+  "name": "@daveyrojo/js-utilities",
   "version": "0.0.5",
   "description": "Various Javascript Functions that are useful in everyday IA programming.",
   "main": "index.js",
