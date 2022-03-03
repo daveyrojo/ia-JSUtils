@@ -1,6 +1,6 @@
 {
   "name": "@rojo/js-utilities",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "Various Javascript Functions that are useful in everyday IA programming.",
   "main": "index.js",
   "files": [
